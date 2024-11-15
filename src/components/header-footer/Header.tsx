@@ -6,7 +6,7 @@ import MobileNav from './MobileNav';
 
 const Header = () => {
     return (
-        <div className='border-b border-gray-200'>
+        <div className='border-b border-gray-300'>
             <div className='w-10/12 mx-auto py-2 hidden md:block'>
                 {/* Large Device Menu */}
                 <div className='flex items-center justify-between'>

@@ -25,13 +25,11 @@ export default {
 				},
 				primary: "#007E85",
 				secondary: "#6EAB36",
+				accent: "#ececec",
+				typo: '#333333',
 				muted: {
 					DEFAULT: 'hsl(var(--muted))',
 					foreground: 'hsl(var(--muted-foreground))'
-				},
-				accent: {
-					DEFAULT: 'hsl(var(--accent))',
-					foreground: 'hsl(var(--accent-foreground))'
 				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
